@@ -25,4 +25,6 @@
 
 ---
 
-_Made at ETHWarsaw 2025_
+[Pitch (Youtube)](https://www.youtube.com/watch?v=bueLpW5I3bQ)
+
+_Made by srakai.eth at ETHWarsaw 2025_
